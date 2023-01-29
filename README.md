@@ -1,7 +1,7 @@
 <div>
   
   <h1 align="center">
-    Oi Tudo bem? Eu sou a 
+    Oi, Tudo bem? Eu sou a 
     <a href="https://www.instagram.com/giovannapox/">Giovanna Patriarcha</a>
   </h1>
   
