@@ -9,7 +9,7 @@
   </h1>
   
   <p align="center">
-    Cursando Desenvolvimento Web Full Stack pela Driven Education. 💻📚
+    Cursando desenvolvimento Web Full Stack pela Driven Education. 💻📚
     
 </div>
 
