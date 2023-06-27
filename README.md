@@ -1,8 +1,4 @@
-<div align="center">
-    <img align="center" width="200" height="200" alt="me" src="https://pbs.twimg.com/profile_images/1659308835939532801/GMcMZZWi_400x400.jpg">
- </div>
 
-  
   <h1 align="center">
     Oi, Tudo bem? Eu sou a 
     <a href="https://www.instagram.com/giovannapox/">Giovanna Patriarcha</a>
