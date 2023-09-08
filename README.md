@@ -6,7 +6,7 @@
   <p> Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. </p>
  
 
-<div>
+<div align="center">
   <a href="https://github.com/giovannapox">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=giovannapox&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannapox&theme=dracula&hide_border=false&&layout=compact"/>
