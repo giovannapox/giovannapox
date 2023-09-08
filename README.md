@@ -39,7 +39,7 @@
 </div>
 
 <div align="center">
-  
-![snake gif](https://github.com/giovannapox/giovannapox/blob/output/github-contribution-grid-snake.svg)
+
+  ![Snake animation](https://github.com/giovannapox/giovannapox/blob/output/github-contribution-grid-snake.svg)
   
 </div>
