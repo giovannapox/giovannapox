@@ -3,6 +3,7 @@
   </h1>
   
   <p align="center">
+    <h2>Sobre mim</h2>
     Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. 💻📚
     
 </div>
