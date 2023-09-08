@@ -37,9 +37,3 @@
   <a href="https://www.twitch.tv/giovannaptc" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
   <a href="mailto:giovannad1clonius@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-<div align="center">
-
-  ![Snake animation](https://github.com/giovannapox/giovannapox/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
