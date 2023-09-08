@@ -3,7 +3,7 @@
   </h1>
   
   <p align="center">
-    Cursando desenvolvimento Web Full Stack pela Driven Education. 💻📚
+    Sou uma desenvolvedora web full stack com uma grande paixão no front-end. Sou apaixonada por criar experiências visuais impressionantes e funcionais em aplicações web. 💻📚
     
 </div>
 
