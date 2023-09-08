@@ -3,7 +3,7 @@
   <h2>
     Sobre mim
   </h2>
-  <p> Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. </p>
+  <p> Me chamo Giovanna Patriarcha, tenho 24 anos e sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. </p>
  
 
 <div>
