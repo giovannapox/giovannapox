@@ -3,7 +3,7 @@
   </h1>
   
   <p align="center">
-    Sou uma desenvolvedora web full stack com uma grande paixão no front-end. Sou apaixonada por criar experiências visuais impressionantes e funcionais em aplicações web. 💻📚
+    Sou uma desenvolvedora web full stack com uma grande paixão no front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. 💻📚
     
 </div>
 
