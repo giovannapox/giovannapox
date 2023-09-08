@@ -1,9 +1,9 @@
-  <h1>Desenvolvedora Web Full Stack</h1>
+  <h1>Desenvolvedora Web Full Stack 💻📚</h1>
   
   <h2>
     Sobre mim
   </h2>
-  <p> Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. 💻📚</p>
+  <p> Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. </p>
  
 
 <div align="center">
