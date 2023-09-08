@@ -1,9 +1,7 @@
-  <h1 align="center">
-    Desenvolvedora Web Full Stack
-  </h1>
+  <h1>Desenvolvedora Web Full Stack</h1>
   
-    <h2>Sobre mim</h2>
-    Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. 💻📚
+  <h2>Sobre mim</h2>
+  Sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. 💻📚
 
 <div align="center">
   <a href="https://github.com/giovannapox">
