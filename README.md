@@ -15,17 +15,17 @@
 
 <div>
   <h2>Linguagens e ferramentas mais utilizadas</h2>
-  <img align="center" alt="React" height="30" width="40" src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Js" height="30" width="40" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
-  <img align="center" alt="CSS" height="30" width="40" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
-  <img align="center" alt="nodejs" height="30" width="40" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
-  <img align="center" alt="Wa-Jest" height="30" width="40" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
-  <img align="center" alt="Nest" height="30" width="40" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png">
-  <img align="center" alt="git" height="30" width="40" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
-  <img align="center" alt="github" height="35" width="35" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
-  <img align="center" alt="linux" height="30" width="40" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
+  <img align="center" alt="React"  src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
+  <img align="center" alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
+  <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
+  <img align="center" alt="nodejs" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
+  <img align="center" alt="Wa-Jest" src="https://img.shields.io/badge/Jest-C21325.svg?logo=jest&logoColor=white">
+  <img align="center" alt="Nest" src="https://static-00.iconduck.com/assets.00/nestjs-icon-2048x2040-3rrvcej8.png">
+  <img align="center" alt="git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white">
+  <img align="center" alt="github" src="https://cdn-icons-png.flaticon.com/512/25/25231.png">
+  <img align="center" alt="linux" src="https://img.shields.io/badge/Linux-FCC624.svg?logo=linux&logoColor=white">
 </div>
 
 <div>
