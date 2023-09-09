@@ -16,8 +16,8 @@
 <div>
   <h2>Linguagens e ferramentas mais utilizadas</h2>
   <img align="center" alt="React"  src="https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=%2361DAFB">
-  <img align="center" alt="Js" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
-  <img align="center" alt="Ts" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="Js" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=white">
+  <img align="center" alt="Ts" src="https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white">
   <img align="center" alt="HTML"  src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white">
   <img align="center" alt="CSS"  src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white">
   <img align="center" alt="nodejs" src="https://cdn.worldvectorlogo.com/logos/nodejs-icon.svg">
