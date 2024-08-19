@@ -1,3 +1,33 @@
+<table>
+    <tr>
+        <!-- Ajuste da largura da célula -->
+        <td style="width: 70%;">
+            <!-- Ajuste da largura da imagem -->
+            <img src="https://i.pinimg.com/736x/26/fb/01/26fb0199dc65d8b9529ac2561a43e1f7.jpg" style="width:100%; border: none;"/>
+        </td>
+        <td style="width: 30%; vertical-align: middle;">
+            <p style="font-family: monospace; font-size: 80px;">    
+                
+        Giovanna Patriarcha 
+    
+</p>                                                                                                                            
+                                                                                                  
+                                                                                                    
+        
+    about me ♥︎
+
+    
+    │▸ she/her - brazilian - (pt/br + english)
+    │   ┗ ▸ software engineer, backend & Cyber Security                                               
+    │▸ learning
+        ┗ ▸  python
+          ▸  python for data analysis
+          ▸  introduction to cybersecurity
+          ▸  english
+
+
+  
+  
   <h1>Desenvolvedora Web Full Stack 💻📚</h1>
   
   <h2>
