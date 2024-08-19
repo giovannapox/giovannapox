@@ -16,7 +16,7 @@
 
     
     │▸ brazilian - (pt/br + english)
-    │   ┗ ▸ fullstack web developer                                               
+        ┗ ▸ fullstack web developer                                               
     │▸ Most used programming languages and tools
         ┗ ▸  React
           ▸  JavaScript
