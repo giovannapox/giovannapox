@@ -39,12 +39,13 @@
           ▸  Git
           ▸  Linux
 
-          <div>
-              <a href="https://github.com/giovannapox">
-                <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannapox&theme=dracula&hide_border=false&&layout=compact"/>
-              </a>
-            </div>
 </table>
+
+<div>
+      <a href="https://github.com/giovannapox">
+        <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannapox&theme=dracula&hide_border=false&&layout=compact"/>
+      </a>
+ </div>
 
 <div>
   <h2>Contato</h2>
