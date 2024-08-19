@@ -1,8 +1,6 @@
 <table>
     <tr>
-        <!-- Ajuste da largura da célula -->
         <td style="width: 70%;">
-            <!-- Ajuste da largura da imagem -->
             <img src="https://i.pinimg.com/736x/26/fb/01/26fb0199dc65d8b9529ac2561a43e1f7.jpg" style="width:100%; border: none;"/>
         </td>
         <td style="width: 30%; vertical-align: middle;">
@@ -17,25 +15,9 @@
     about me ♥︎
 
     
-    │▸ she/her - brazilian - (pt/br + english)
-    │   ┗ ▸ software engineer, backend & Cyber Security                                               
-    │▸ learning
-        ┗ ▸  python
-          ▸  python for data analysis
-          ▸  introduction to cybersecurity
-          ▸  english
-
-
-  
-  
-  <h1>Desenvolvedora Web Full Stack 💻📚</h1>
-  
-  <h2>
-    Sobre mim
-  </h2>
-  <p> Me chamo Giovanna Patriarcha, tenho 25 anos e sou uma desenvolvedora web full stack com uma grande paixão pelo front-end. Criar experiências visuais impressionantes e funcionais em aplicações web é o que me inspira. </p>
- 
-
+    │▸ brazilian - (pt/br + english)
+    │   ┗ ▸ fullstack web developer                                               
+    
 <div>
   <a href="https://github.com/giovannapox">
     <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giovannapox&theme=dracula&hide_border=false&&layout=compact"/>
