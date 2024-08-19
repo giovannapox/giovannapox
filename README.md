@@ -11,10 +11,6 @@
 </p>                                                                                                                            
                                                                                                   
                                                                                                     
-        
-    about me ♥︎
-
-    
     │▸ brazilian - (pt/br + english)
         ┗ ▸ fullstack web developer                                               
     │▸ Programming languages and tools
