@@ -6,7 +6,7 @@
         <td style="width: 30%; vertical-align: middle;">
             <p style="font-family: monospace; font-size: 80px;">    
                 
-        Giovanna Patriarcha 
+𝒢𝒾𝑜𝓋𝒶𝓃𝓃𝒶 𝒫𝒶𝓉𝓇𝒾𝒶𝓇𝒸𝒽𝒶
     
 </p>                                                                                                                            
                                                                                                   
